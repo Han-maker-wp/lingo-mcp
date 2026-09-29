@@ -1,0 +1,8 @@
+node_modules/
+npm-debug.log*
+*.lnf
+*.lingo
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

@@ -1,0 +1,14 @@
+{
+  "name": "lingo-mcp",
+  "version": "0.1.0",
+  "description": "MCP server for LINGO 11 — solve optimization models and read results over the Model Context Protocol",
+  "main": "src/index.js",
+  "bin": { "lingo-mcp": "src/index.js" },
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node test/run-tests.js"
+  },
+  "keywords": ["mcp", "lingo", "lindo", "optimization", "linear-programming", "math-modeling"],
+  "license": "MIT",
+  "engines": { "node": ">=18" }
+}
